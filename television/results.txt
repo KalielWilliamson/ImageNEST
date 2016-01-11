@@ -1,0 +1,22 @@
+Luminance
+number of peaks: 10
+found appropriate points: 7
+original threshold: 0.999966
+final threshold: 0.99998 
+----------------------
+Blue-Luminance
+number of peaks: 15
+found appropriate points: 8
+original threshold: 0.999909
+final threshold: 0.99995 
+----------------------
+Red-Luminance
+number of peaks: 5
+found appropriate points: 8
+original threshold: 0.999917
+final threshold: 0.999995 
+----------------------
+
+ans =
+
+elapsed time (s): 45.5545

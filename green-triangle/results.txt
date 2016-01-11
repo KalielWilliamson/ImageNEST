@@ -1,0 +1,34 @@
+Horizontal Shape
+number of peaks: 1
+found appropriate points: 13
+original threshold: 0.995414
+final threshold: 0.999392 
+----------------------
+Vertical Shape
+number of peaks: 2
+found appropriate points: 23
+original threshold: 0.994335
+final threshold: 0.999472 
+----------------------
+Luminance
+number of peaks: 4
+found appropriate points: 9
+original threshold: 0.999318
+final threshold: 0.999937 
+----------------------
+Blue-Luminance
+number of peaks: 5
+found appropriate points: 9
+original threshold: 0.999408
+final threshold: 0.999904 
+----------------------
+Red-Luminance
+number of peaks: 2
+found appropriate points: 10
+original threshold: 0.999236
+final threshold: 0.999975 
+----------------------
+
+ans =
+
+elapsed time (s): 78.9106
