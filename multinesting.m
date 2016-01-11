@@ -96,4 +96,8 @@ function [peaks, stddev] = multinesting(A,arg,T,path,str)
     end
     close(h)
     results(bins,peaks,stddev,c,dPoints,orgThresh,path,str);
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master

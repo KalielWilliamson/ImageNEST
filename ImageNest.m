@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 % ImageNest
 % this function returns the final outputs of the program and will take in a
 % 
@@ -14,6 +15,8 @@
 %
 
 
+=======
+>>>>>>> origin/master
 function ImageNest(imgg,setting)
     tic;
     temp = strsplit(imgg,'\');
@@ -57,4 +60,8 @@ function ImageNest(imgg,setting)
     end
     time = toc;
     sprintf('elapsed time (s): %g',time)
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master

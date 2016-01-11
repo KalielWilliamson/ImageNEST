@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 % getHistogram
 % this function returns the various histograms for a given image. It is
 % capable of returning the Y', U, V, Horizontal-Shape, and Vertical-Shape
@@ -16,6 +17,8 @@
 %
 
 
+=======
+>>>>>>> origin/master
 function results(bins,peaks,stddev,c,dPoints,orgThresh,path,str)
     x = 0:1:bins;
     fileFig = figure;
@@ -87,4 +90,8 @@ function results(bins,peaks,stddev,c,dPoints,orgThresh,path,str)
     %save variables
     M = [peaks;abs(stddev)];
     save(strcat('database\',str,path,'.mat'),'M');
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master

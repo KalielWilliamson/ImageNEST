@@ -56,4 +56,8 @@ function Z = getPeaks(Hist,Arg,Name)
         end
     end
     
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master

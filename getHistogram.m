@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 % getHistogram
 % this function returns the various histograms for a given image. It is
 % capable of returning the Y', U, V, Horizontal-Shape, and Vertical-Shape
@@ -16,6 +17,8 @@
 %
 
 
+=======
+>>>>>>> origin/master
 function H = getHistogram(img_source,m)
     %color histogram
     if m == 1
@@ -147,4 +150,8 @@ size(X);
         end
     end
     smoothedYUV = X;
+<<<<<<< HEAD
 end
+=======
+end
+>>>>>>> origin/master
